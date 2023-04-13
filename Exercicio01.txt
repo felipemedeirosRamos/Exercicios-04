@@ -1,0 +1,3 @@
+ let n = Number(prompt("digite um numero"));
+ let resultado = n ** 2;
+ document.write(`O resultado é:${n}² = ${resultado}`);

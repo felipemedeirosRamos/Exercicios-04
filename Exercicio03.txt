@@ -1,0 +1,3 @@
+let num1 = prompt("Digite um numero");
+let resultado = num1**0.5;
+document.write(`A raiz é:${resultado}`);

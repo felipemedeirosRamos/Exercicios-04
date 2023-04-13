@@ -1,0 +1,9 @@
+let num1 = prompt("Digite um numero");
+num1 = Number(num1);
+let num2 = prompt("Digite outro numero");
+num2 = Number(num2);
+let num3 = prompt("Digte o último numero");
+num3 = Number(num3);
+let resultado = num1 + num2 + num3;
+quad = resultado ** 2;
+document.write(`O resultado é:${quad}`);

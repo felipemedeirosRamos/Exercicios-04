@@ -1,0 +1,7 @@
+let altura = prompt("Digite a altura");
+altura = Number(altura);
+let raio = prompt("Digite o raio");
+raio = Number(raio);
+//V = π.r².h
+let volume = 3.14 * (raio** 2) * altura;
+document.write(volume);
